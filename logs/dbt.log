@@ -1,0 +1,46 @@
+
+
+============================== 2024-01-21 09:23:38.523297 | e4b8000e-86ef-4023-bc29-32dcc7041ca1 ==============================
+[0m09:23:38.523297 [info ] [MainThread]: Running with dbt=1.4.5
+[0m09:23:38.524296 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\asunday\\.dbt', 'send_anonymous_usage_stats': True, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m09:23:38.524296 [debug] [MainThread]: Tracking: tracking
+[0m09:23:38.540840 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D6D6667FD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D6D64E5590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D6D64E5950>]}
+[0m09:24:00.842095 [debug] [MainThread]: Starter project path: C:\Users\asunday\AppData\Local\Programs\Python\Python311\Lib\site-packages\dbt\include\starter_project
+[0m09:24:06.978400 [info ] [MainThread]: 
+Your new dbt project "northwind_BI" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m09:24:06.980405 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D6D6CF1D10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D6D659EC10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D6D6913450>]}
+[0m09:24:06.980405 [debug] [MainThread]: Flushing usage events
+
+
+============================== 2024-01-21 09:29:20.487317 | 2a0eaf09-7d6b-4280-9c24-45b8e6d4c1a7 ==============================
+[0m09:29:20.487317 [info ] [MainThread]: Running with dbt=1.4.5
+[0m09:29:20.488839 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\asunday\\.dbt', 'send_anonymous_usage_stats': True, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m09:29:20.488839 [debug] [MainThread]: Tracking: tracking
+[0m09:29:20.510261 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024CB497F450>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024CB46C3810>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024CB461D150>]}
+[0m09:29:20.557904 [debug] [MainThread]: Executing "git --help"
+[0m09:29:20.573980 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024CB45F8810>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024CB46C3810>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024CB41B3F10>]}
+[0m09:29:20.574636 [debug] [MainThread]: Flushing usage events
+
+
+============================== 2024-01-21 09:33:35.133882 | c0c2da8c-212e-4487-82c5-39ca54ca739b ==============================
+[0m09:33:35.133882 [info ] [MainThread]: Running with dbt=1.4.5
+[0m09:33:35.135864 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\asunday\\.dbt', 'send_anonymous_usage_stats': True, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m09:33:35.135864 [debug] [MainThread]: Tracking: tracking
+[0m09:33:35.149308 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A50560B2D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A505246F10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A5051DF450>]}
+[0m09:33:35.183884 [debug] [MainThread]: Executing "git --help"
+[0m09:33:35.193716 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A504BC6190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A504BC6D90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A504BD9390>]}
+[0m09:33:35.194798 [debug] [MainThread]: Flushing usage events
